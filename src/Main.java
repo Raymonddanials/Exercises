@@ -1,7 +1,7 @@
 //
 // Source code recreated from a .class file by IntelliJ IDEA
 // (powered by FernFlower decompiler)
-
+// we need import class java.util.scanner to obtain information entered by the user
 import java.util.Scanner;
 
 public class Main {
